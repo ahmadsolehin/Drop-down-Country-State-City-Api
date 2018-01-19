@@ -4,6 +4,7 @@
 - a few line of code
 - manipulate and design originally by ahmad solehin
 - plug and play
+- remember this code only works on webbased and not in phonegap/ionic/native apps
 
 ## screenshot
 
