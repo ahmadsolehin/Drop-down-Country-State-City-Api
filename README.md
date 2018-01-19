@@ -1,4 +1,4 @@
-# Drop-down-State-City-Api-
+# Drop-down-Country-State-City-Api
 
 - very simple and easy to use
 - a few line of code
